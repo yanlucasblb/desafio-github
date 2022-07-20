@@ -1,1 +1,9 @@
-Github é um sistema de versionamento de códigos para usuários.
+git clone // clonar
+
+git status // status da pasta
+
+git add // adiciona no git local
+
+git commit -m "Digitar mensagem do commit" // commita' no git local
+
+git push // manda pra nuvem
